@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="docs/images/banner.png" alt="SpellForge" width="720">
+<img src="demo.gif" alt="SpellForge ボス戦のプレイ映像" width="720">
 
 **炎・氷・雷の3属性を組み合わせて戦う、見下ろし型アクションゲーム**
 
